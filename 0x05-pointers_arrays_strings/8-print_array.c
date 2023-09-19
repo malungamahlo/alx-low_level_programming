@@ -5,7 +5,6 @@
  * @a: array name
  * @n: is the number of elements OF the array to be printed
  * R#include "main.h"
-/**
  * puts_half - a function that prints half of a string
  * if odd len, n = (length_of_the_string - 1) / 2
  * @str: input
